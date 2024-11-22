@@ -1,0 +1,142 @@
+[
+    {
+        "numero": 1,
+        "nombre": "jellyfish-120-mbps-4k-uhd-h264.mkv",
+        "size": 431.3397,
+        "tiempo_descarga": 36.0204,
+        "velocidad_media": 11.974872572209081
+    },
+    {
+        "numero": 2,
+        "nombre": "jellyfish-10-mbps-hd-hevc-10bit.mkv",
+        "size": 36.2223,
+        "tiempo_descarga": 4.9739,
+        "velocidad_media": 7.282474516978628
+    },
+    {
+        "numero": 3,
+        "nombre": "jellyfish-70-mbps-hd-hevc.mkv",
+        "size": 251.8538,
+        "tiempo_descarga": 25.3416,
+        "velocidad_media": 9.938354326482937
+    },
+    {
+        "numero": 4,
+        "nombre": "jellyfish-45-mbps-hd-h264.mkv",
+        "size": 160.4249,
+        "tiempo_descarga": 15.1983,
+        "velocidad_media": 10.555450280623491
+    },
+    {
+        "numero": 5,
+        "nombre": "jellyfish-35-mbps-hd-hevc.mkv",
+        "size": 125.5818,
+        "tiempo_descarga": 15.1547,
+        "velocidad_media": 8.286656944710222
+    },
+    {
+        "numero": 6,
+        "nombre": "jellyfish-50-mbps-hd-hevc.mkv",
+        "size": 180.4673,
+        "tiempo_descarga": 16.0761,
+        "velocidad_media": 11.225813474661143
+    },
+    {
+        "numero": 7,
+        "nombre": "jellyfish-110-mbps-hd-h264.mkv",
+        "size": 393.3506,
+        "tiempo_descarga": 39.9767,
+        "velocidad_media": 9.839496506715161
+    },
+    {
+        "numero": 8,
+        "nombre": "jellyfish-3-mbps-hd-hevc-10bit.mkv",
+        "size": 10.7139,
+        "tiempo_descarga": 2.8691,
+        "velocidad_media": 3.7342372172458265
+    },
+    {
+        "numero": 9,
+        "nombre": "jellyfish-30-mbps-hd-hevc.mkv",
+        "size": 109.0284,
+        "tiempo_descarga": 13.1115,
+        "velocidad_media": 8.315478778171835
+    },
+    {
+        "numero": 10,
+        "nombre": "jellyfish-100-mbps-hd-h264.mkv",
+        "size": 356.5943,
+        "tiempo_descarga": 31.177,
+        "velocidad_media": 11.437736151650254
+    },
+    {
+        "numero": 11,
+        "nombre": "jellyfish-3-mbps-hd-h264.mkv",
+        "size": 10.6836,
+        "tiempo_descarga": 2.8976,
+        "velocidad_media": 3.6870513528437328
+    },
+    {
+        "numero": 12,
+        "nombre": "jellyfish-25-mbps-hd-h264.mkv",
+        "size": 89.1252,
+        "tiempo_descarga": 9.3989,
+        "velocidad_media": 9.482513911202377
+    },
+    {
+        "numero": 13,
+        "nombre": "jellyfish-55-mbps-hd-h264.mkv",
+        "size": 199.8391,
+        "tiempo_descarga": 17.6419,
+        "velocidad_media": 11.327527080416509
+    },
+    {
+        "numero": 14,
+        "nombre": "jellyfish-10-mbps-hd-h264.mkv",
+        "size": 35.6391,
+        "tiempo_descarga": 4.2185,
+        "velocidad_media": 8.448287305914425
+    },
+    {
+        "numero": 15,
+        "nombre": "jellyfish-140-mbps-4k-uhd-h264.mkv",
+        "size": 502.6233,
+        "tiempo_descarga": 45.7672,
+        "velocidad_media": 10.982172822458004
+    },
+    {
+        "numero": 16,
+        "nombre": "jellyfish-160-mbps-4k-uhd-h264.mkv",
+        "size": 573.946,
+        "tiempo_descarga": 50.2109,
+        "velocidad_media": 11.430705285107416
+    },
+    {
+        "numero": 17,
+        "nombre": "jellyfish-40-mbps-hd-h264.mkv",
+        "size": 142.5985,
+        "tiempo_descarga": 14.1323,
+        "velocidad_media": 10.090254240286436
+    },
+    {
+        "numero": 18,
+        "nombre": "jellyfish-15-mbps-hd-hevc.mkv",
+        "size": 52.5822,
+        "tiempo_descarga": 5.2054,
+        "velocidad_media": 10.10147154877627
+    },
+    {
+        "numero": 19,
+        "nombre": "jellyfish-90-mbps-hd-h264.mkv",
+        "size": 320.9418,
+        "tiempo_descarga": 23.6288,
+        "velocidad_media": 13.582653372156013
+    },
+    {
+        "numero": 20,
+        "nombre": "jellyfish-60-mbps-hd-hevc.mkv",
+        "size": 215.6412,
+        "tiempo_descarga": 23.5366,
+        "velocidad_media": 9.161952023656772
+    }
+]
